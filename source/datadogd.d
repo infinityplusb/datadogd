@@ -1,4 +1,4 @@
-module datadogd;
+module datadogd.datadogd;
 
 import std.conv;
 import std.net.curl;
