@@ -1,0 +1,17 @@
+{
+	"sourcePaths": [
+		"source/"
+	],
+	"copyright": "Copyright © 2015, brian",
+	"version": "0.1.0",
+	"name": "datadogd",
+	"importPaths": [
+		"source/"
+	],
+	"authors": [
+		"brian"
+	],
+	"targetType": "library",
+	"description": "A library for using Datadog API",
+	"license": "GPL 2"
+}

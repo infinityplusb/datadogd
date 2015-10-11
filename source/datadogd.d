@@ -3,7 +3,7 @@ module datadogd;
 import std.conv;
 import std.net.curl;
 import std.string;
-
+import std.stdio;
 
 
 class ddog
