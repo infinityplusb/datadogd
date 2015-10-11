@@ -1,6 +1,0 @@
-name "datadogd"
-description "A library for using Datadog API"
-copyright "Copyright © 2015, brian"
-license "GPL-2.0"
-authors "brian"
-targetType "library"
